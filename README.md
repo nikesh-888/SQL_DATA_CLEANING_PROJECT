@@ -21,3 +21,9 @@ Tool - MYsql
 ## Requirements
 
 - [MySQL](https://www.mysql.com/) database server
+
+Contributing
+Contributions are welcome! If you have suggestions, improvements, or new features to propose.
+
+License
+This project is licensed under the MIT License. Feel free to use and modify the code for your own projects.
