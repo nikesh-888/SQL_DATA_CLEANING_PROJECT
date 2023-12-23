@@ -207,7 +207,7 @@ modify column SalePrice bigint,
 modify column LegalReference char(17),
 modify column SoldAsVacant char(3);
 
--- due to some empty values in data remaining column data types are not able to specified.alter
+-- due to some empty values in data remaining column data types are not able to specified.
 -- if u can make any changes in column datatype proceed and update me  
 select * from housingdata ; 
 
